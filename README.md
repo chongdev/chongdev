@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- ⚡ Fun fact: I love to draw and play guitar
+- ⚡ Fun fact: I love to coding and play guitar
 
 ### Connect with me:
 
