@@ -1,5 +1,7 @@
 ### Hi there, I'm Chong [chongdev][website] 👋
 
+Graduate of software development with experience working across the full-stack of software development. I've built project on small teams and i'm lookind fot a role where i can grow and continue to learn form other experienced team members.
+
 ## I'm a Developer
 
 - 🌱 I’m currently learning everything 🤣
