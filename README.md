@@ -41,6 +41,7 @@ Graduate of software development with experience working across the full-stack o
 <br />
 <br />
 <br />
+<br />
 
 ![HungWei's GitHub Stats](https://github-readme-stats.vercel.app/api?username=chongdev&show_icons=true&theme=radical)
 
