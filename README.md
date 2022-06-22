@@ -47,3 +47,6 @@ Graduate of software development with experience working across the full-stack o
 [website]: https://chongdev.com
 [instagram]: https://instagram.com/shiichong
 [linkedin]: https://linkedin.com/in/puchong-saunjang-310405144
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chongdev)](https://github.com/anuraghazra/github-readme-stats)
